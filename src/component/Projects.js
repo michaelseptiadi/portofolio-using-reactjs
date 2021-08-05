@@ -10,8 +10,7 @@ export default function Projects() {
                         These are Some of My Poster Design
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis
-                        repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.
+                        I made this for my Church Instagram Account's for their feed.
                     </p>
                 </div>
                 <div className="flex flex-wrap">
